@@ -19,7 +19,7 @@ cmake -G "Visual Studio 17 2022" -A x64 -DCMAKE_BUILD_TYPE=Release
 
 发现当前文件夹下多了Blackhole.sln，双击运行，即可在解决方案资源管理器中查看到项目Blackhole的所有文件
 
-可以切换到Release模式下运行，会报错，需要配置环境，请参考以下博客[https://blog.csdn.net/yiyeyeshenlan/article/details/144697459?spm=1001.2014.3001.5502](https://blog.csdn.net/yiyeyeshenlan/article/details/144697459),相关文件已附到github上，即imgui文件夹
+可以切换到Release模式下运行，会报错，需要配置环境，请参考以下博客[https://blog.csdn.net/yiyeyeshenlan/article/details/144697459?spm=1001.2014.3001.5502](https://blog.csdn.net/yiyeyeshenlan/article/details/144697459),相关文件已附到github上，即OpenGLENV压缩包，包含imgui相关的文件夹和irrKlang音乐播放的文件夹
 区别：在配置imgui时，可以先删除掉当前和imgui有关的.cpp而后重新添加
 
 # 参考文献
