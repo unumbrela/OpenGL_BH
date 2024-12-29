@@ -1,0 +1,35 @@
+# 忽略生成的文件夹
+/build/
+/Debug/
+/Release/
+/x64/
+/Output/
+
+# 忽略 CMake 生成文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# 忽略 Visual Studio 相关文件
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.filters
+*.log
+
+# 忽略 Conan 相关文件
+conan.lock
+conanbuildinfo.txt
+conanbuildinfo.cmake
+graph_info.json
+
+# 忽略其他临时文件
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# 忽略 Git 特定内容（自动生成的可选）
+*.orig
