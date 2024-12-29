@@ -1,15 +1,3 @@
-/**
- * @file render.h
- * @author Ross Ning (rossning92@gmail.com)
- * @brief Utility functions for GL rendering including framebuffer creation,
- * render to texture, etc.
- * @version 0.1
- * @date 2020-08-29
- *
- * @copyright Copyright (c) 2020
- *
- */
-
 #ifndef RENDER_H
 #define RENDER_H
 
