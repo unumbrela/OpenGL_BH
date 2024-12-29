@@ -22,9 +22,9 @@ cmake -G "Visual Studio 17 2022" -A x64 -DCMAKE_BUILD_TYPE=Release
 可以切换到Release模式下运行，会报错，需要配置环境，请参考以下博客[https://blog.csdn.net/yiyeyeshenlan/article/details/144697459?spm=1001.2014.3001.5502](https://blog.csdn.net/yiyeyeshenlan/article/details/144697459),相关文件已附到github上，即imgui文件夹
 区别：在配置imgui时，可以先删除掉当前和imgui有关的.cpp而后重新添加
 
-参考文献
+# 参考文献
 
-Papers
+## Papers
 
 Gravitational Lensing by Spinning Black Holes in Astrophysics, and in the Movie Interstellar
 
@@ -34,7 +34,7 @@ Approximating Light Rays In The Schwarzschild Field - O. Semerak
 
 Implementing a Rasterization Framework for a Black Hole Spacetime - Yoshiyuki Yamashita
 
-Articles
+## Articles
 
 Physics of oseiskar.github.io/black-hole - https://oseiskar.github.io/black-hole/docs/physics.html
 
@@ -56,7 +56,8 @@ Ray Tracing in One Weekend - https://raytracing.github.io/
 
 On ray casting, ray tracing, ray marching and the like - http://hugi.scene.org/online/hugi37/- hugi%2037%20-%20coding%20adok%20on%20ray%20casting,%20ray%20tracing,%20ray%20marching%20and%20the%20like.htm
 
-Other GitHub Projects
+
+## Other GitHub Projects
 
 https://github.com/ebruneton/black_hole_shader/tree/master?tab=readme-ov-file
 
